@@ -1,1 +1,18 @@
 /* add your styles here */
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+  }
+  
+  .image-item {
+    overflow: hidden;
+  }
+  
+  .image-item img {
+    width: 100%;
+    height: auto;
+  }
+  .App h1{
+    text-align: center;
+  }
