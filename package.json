@@ -1,8 +1,8 @@
 {
+  "homepage": "https://hrenikindi.github.io/lab-react-jsx-boilerplate/",
   "name": "lab-react-jsx-boilerplate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hrenikindi.github.io/lab-react-jsx-boilerplate/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
